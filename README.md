@@ -17,6 +17,6 @@ Arquivos:
 
 Prova
 
-q1:https://github.com/andrevks/algorithm2/blob/master/q1Pessoas
+q1:https://github.com/andrevks/algorithm2/blob/master/q1Pessoas.c
 
-q2:https://github.com/andrevks/algorithm2/blob/master/q2Veiculos
+q2:https://github.com/andrevks/algorithm2/blob/master/q2Veiculos.c
