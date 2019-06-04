@@ -1,7 +1,20 @@
 # algorithm2
-Here i'll put all my exercises solved in class 
+AQUI SERÁ UM REPOSITÓRIO COM TODOS MEUS ALGORITMOS DESENVOLVIDOS PARA A DISCIPLINA DE ALGORITMO 2
 
 
-Fist one: Ordena 3 numeros: https://github.com/andrevks/algorthm2/blob/master/ordenaABC.c
+1: Ordena 3 numeros: https://github.com/andrevks/algorthm2/blob/master/ordenaABC.c
 
-Second one: Paralelepípedo: https://github.com/andrevks/algorthm2/blob/master/parale.c
+2: Paralelepípedo: https://github.com/andrevks/algorthm2/blob/master/parale.c
+
+
+
+
+
+
+
+Arquivos:
+
+
+Prova
+q1:
+q2:
