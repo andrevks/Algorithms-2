@@ -1,4 +1,4 @@
-# algorithm2
+# algorithm2/algoritmo2
 AQUI SERÁ UM REPOSITÓRIO COM TODOS MEUS ALGORITMOS DESENVOLVIDOS PARA A DISCIPLINA DE ALGORITMO 2 :D
 
 
@@ -18,4 +18,4 @@ Arquivos:
 Prova
 q1:https://github.com/andrevks/algorithm2/blob/master/q1Pessoas
 
-q2:
+q2:https://github.com/andrevks/algorithm2/blob/master/q2Veiculos
